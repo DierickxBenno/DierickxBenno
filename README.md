@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DierickxBenno
-- 👀 I’m interested in Programming, UX and prototyping
-- 🌱 I’m currently learning Python, C,excel and adobe XD
+- 👀 I’m interested in Programming and prototyping
+- 🌱 I’m currently learning js, CSS, sql and html
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: mail
 
