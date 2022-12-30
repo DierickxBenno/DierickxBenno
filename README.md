@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DierickxBenno
-- 👀 I’m interested in Programming and prototyping
-- 🌱 I’m currently learning js, CSS, sql and html
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Programming, Prototyping and AI
 - 📫 How to reach me: mail
 
 <!---
