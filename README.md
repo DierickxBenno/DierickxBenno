@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DierickxBenno
-- 👀 I’m interested in Programming, Prototyping and AI
+- 👋 Hi, I’m[@DierickxBenno](Benno Dierickx)
 - 📫 How to reach me: mail
 
 <!---
