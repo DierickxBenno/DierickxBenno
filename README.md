@@ -1,4 +1,6 @@
-- 👋 Hi, I’m[@DierickxBenno](Benno Dierickx)
+- 👋 Hi, I’m[]Benno Dierickx](@DierickxBenno)
+- AI engineer
+- in progress: advanced Bachelor in Sustainable Energy Management
 - 📫 How to reach me: mail
 
 <!---
